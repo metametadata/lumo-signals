@@ -1,0 +1,11 @@
+{
+  "name": "lumo-signals",
+  "version": "1.0.0",
+  "description": "signal handling examples",
+  "repository": "-",
+  "license": "MIT",
+  "dependencies": {
+    "signal-exit": "^3.0.2"
+  },
+  "devDependencies": {}
+}
